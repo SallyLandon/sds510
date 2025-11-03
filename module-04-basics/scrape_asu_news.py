@@ -5,7 +5,7 @@ from datetime import datetime, timezone
 from urllib.parse import urljoin
 
 BASE = "https://news.asu.edu/"
-HEADERS = {"User-Agent": "ASU-News-Monitor/1.0 (contact: youremail@example.com)"}
+HEADERS = {"User-Agent": "ASU-News-Monitor/1.0 (contact: salandon@asu.edu)"}
 DELAY = 1.5
 TIMEOUT = 15
 
@@ -87,3 +87,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

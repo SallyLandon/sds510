@@ -1,4 +1,4 @@
--For this assignment, I used ChatGPT, Google Gemini, Google AI search, and course resources and examples.
+-For this assignment, I used ChatGPT, Google Gemini, Google AI search, and course resources and examples. 
 -These tools provided code examples, explanations, debugging assistance and explanation, and clarification of concepts.  
 -However, I personally reviewed every piece of code and ensured I understood how each part worked before including it in my final notebook.  
 -This code reflects my understanding and implementation choices.
